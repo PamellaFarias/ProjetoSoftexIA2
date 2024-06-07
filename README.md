@@ -1,0 +1,1 @@
+Esse Projeto Foi desenvolvido Para a Capacitação de Inteligência Artificial analisando o Dataset Evasive-PDF-Samples do Kaggle, foram utilizados algoritmos de aprendizado de máquina como Árvores de Decisão, KNN, SVM, Gradient Boosting, Random Forest, Bagging, XGBOST e LGBM e todos os resultados estão no MLFLOW.
